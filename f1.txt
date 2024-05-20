@@ -1,5 +1,7 @@
-hi mam i have a dout
+hi mam i have a doutb
 
 a=20
 b=30
 add=int(a+b)
+sub=int(a-b)
+
